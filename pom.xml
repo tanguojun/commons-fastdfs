@@ -10,15 +10,6 @@
 	<name>commons-fastdfs</name>
 	<url>http://maven.apache.org</url>
 
-	<!-- maven上传下载 -->
-	<!--<distributionManagement> <repository> <id>o2o_releases</id> <name>dev</name> 
-		<url>http://dev.nexus.youanmi.com/content/repositories/releases/</url> </repository> 
-		<snapshotRepository> <id>o2o_snapshots</id> <name>Nexus Snapshot Repository</name> 
-		<url>http://dev.nexus.youanmi.com/content/repositories/snapshots/</url> </snapshotRepository> 
-		</distributionManagement> <repositories> <repository> <id>o2o_repository</id> 
-		<name>Team Repository</name> <url>http://dev.nexus.youanmi.com/content/groups/public/</url> 
-		</repository> </repositories> -->
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java-version>1.8</java-version>
